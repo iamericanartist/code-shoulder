@@ -1,6 +1,11 @@
 ## References, Resources, and Blogs - OH MY
 ***
 
+#### Books
+- [A Smarter Way to Learn HTML & CSS](https://www.amazon.com/Smarter-Way-Learn-HTML-CSS/dp/150867387X/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=2DVYKSXB5XPP2CYGE87R) is by Mark Myers and is required reading at Nashville Software School. 
+- [A Smarter Way to Learn JavaScript](https://www.amazon.com/Smarter-JavaScript-tech-assisted-approach-requires/dp/1497408180/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=XTDA4VDWEYNHN5ZZXHAT) is another book by Mark Myers and is also required reading at Nashville Software School. 
+- [Web Design with HTML, CSS, JavaScript and jQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=la_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1483520705&sr=1-1) by Jon Duckett is on Amazon and I would suggest buying both books as the combo I believe is within $5 of the JavaScript book by itself! Great books for visual people! 
+
 #### Educational Sites
 - [Treehouse's](https://teamtreehouse.com/tracks/front-end-web-development) Front End Web Development course is where I got started and is a good jumping off point
 - [Treehouse's](https://teamtreehouse.com/tracks/full-stack-javascript) Full Stack JavaScript is another possible track (looks like it might be a little bit "deeper").

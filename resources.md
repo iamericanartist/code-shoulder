@@ -30,6 +30,7 @@ Reference:
 
 Videos/Walkthroughs:
 - [Web Design In 4 Minutes](http://jgthms.com/web-design-in-4-minutes/) is a clever way to illustrate how CSS makes things pretty.
+- [Nashville Software School has a great video playlist](https://www.youtube.com/playlist?list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC) on Youtube that I always found rather helpful.
 - John Crockford's [On JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) series is on Youtube and is a THOROUGH walkthrough of the history of JavaScript. Miiight be a little advanced for newbies but the first 3 are great for those that are curious...
 - Philip Robert's talk: [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&index=6&list=PLyZreCPOwYNna5TZmIBlSoIpY2lNrF0oA) is enjoyable and a great way to visually learn what's happening in your programs. 
 

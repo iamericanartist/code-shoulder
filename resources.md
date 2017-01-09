@@ -32,10 +32,11 @@ GIT:
 - [Oh shit, git!](http://ohshitgit.com/) is a Git lifesaver, and has rescued me a couple times. 
 
 Reference: 
-- [OverAPI](http://overapi.com/) has the Cheat Sheets! 
+- [Stack Overflow](http://stackoverflow.com/) is a fantastic code resource. If you get stuck on ANYTHING, this is an amazing place to check out.
 - https://developer.mozilla.org/en-US/ Head here for the latest, most up to date web development practices. Can be a little "technical" for beginners (which brings me to....) 
 - http://www.w3schools.com/ ....W3Schools.com - may not always be the most up to date, but is typically in the ballpark and speaks in "regular English." 
 - https://css-tricks.com/ is an awesome site for learning how to make your web pages pop! 
+- [OverAPI](http://overapi.com/) has the Cheat Sheets! 
 - [ES6 Features](http://es6-features.org) is a great resource to see ECMAScript 6 differences from ECMAScript 5 and has nice code snippets to illustrate. 
 
 Videos/Walkthroughs: 

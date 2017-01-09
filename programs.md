@@ -43,7 +43,3 @@ Visit [Github.com](https://github.com) and start your own free account. Github (
 ### Trello (Project Management)
 [Trello]() is a web-based project management application using a kanban board with lists and assignable and moveable "cards" to illustrate the status of a particular issue/feature/item. Great for visual people!
 - [Lifehacker](http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040) has a nice "getting started" article for Trello.
-
-
-
- uses the kanban paradigm for managing projects, originally popularized by Toyota in the 1980s for supply chain management

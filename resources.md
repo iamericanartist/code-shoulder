@@ -14,6 +14,8 @@
 - [Udemy](https://www.udemy.com) is a great place to pick up all kinds of courses on a broad range of topics. I've personally got a couple on Youtube Video Creation and two on User Experience. Try the [Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/)! 
 - [Lynda.com](https://www.lynda.com/) is FREE if you have a Davidson County Library Card and has all lots of great "courses" you can take and also share your course completions on LinkedIn! 
 - http://exercism.io/ looks like a great way to hone your skills (haven't personally used it, but it looks really cool). 
+- [The Odin Project](http://www.theodinproject.com/) is a free site that gives a "beginner to developer" track and focuses on Ruby/Ruby on Rails alongside the standard CSS, HTML, Javascript and JQuery stuff. I've heard from a good friend it's pretty great!
+
 
 *** 
 ### References and Resources 

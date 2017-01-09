@@ -23,11 +23,11 @@ Github:
 - [Github Guides](https://guides.github.com/) is a great way to get familiar with Github. "HELLO WORLD!" 
 - [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) is another excellent Github guide. 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a great resource for making your Github pages SHINE. 
+- [Github Tutorial for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) is an easy to follow starter video on Youtube. Delves into what "version control" is and much more. 
 
 GIT: 
-- [Gitub & Git Foundations](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) on Youtube is a set of videos from Github itself. 
-- [Github Tutorial for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) is an easy to follow starter video on Youtube. Delves into what "version control" is and much more. 
-- [Git Cheat Sheet0](https://www.git-tower.com/blog/git-cheat-sheet/) has some great shortcuts and a great GIT resource.
+- [Gitub & Git Foundations](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) on Youtube is a set of videos from Github itself.  
+- [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/) has some great shortcuts and a great GIT resource.
 - [Think Like a Git](http://think-like-a-git.net/) a great way to get more accustomed to GIT. 
 - [Oh shit, git!](http://ohshitgit.com/) is a Git lifesaver, and has rescued me a couple times. 
 

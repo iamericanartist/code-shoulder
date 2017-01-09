@@ -42,6 +42,7 @@ Videos/Walkthroughs:
 - [Nashville Software School has a great video playlist](https://www.youtube.com/playlist?list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC) on Youtube that I always found rather helpful. 
 - John Crockford's [On JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) series is on Youtube and is a THOROUGH walkthrough of the history of JavaScript. Miiight be a little advanced for newbies but the first 3 are great for those that are curious... 
 - Philip Robert's talk: [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&index=6&list=PLyZreCPOwYNna5TZmIBlSoIpY2lNrF0oA) is enjoyable and a great way to visually learn what's happening in your programs. 
+- [ES6 Features](http://es6-features.org) is a great resource to see ECMAScript 6 differences from ECMAScript 5 and has nice code snippets to illustrate.
 
 *** 
 ### Blogs and Such 
@@ -49,3 +50,9 @@ Videos/Walkthroughs:
 - [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/) shows you some best practices in code. 
 - [FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8) is a FANTASTIC and engaging Youtube channel that covers all sorts of coding topics. HIGHLY recommended. 
 - [Dev Tips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) is another Youtube channel that can be quite helpful. 
+
+
+*** 
+### Further Learning / Katas / Challenges
+- https://javascript30.com/ is a cool concept brought to you by Wes Bos at [HackerYou](http://hackeryou.com/) and is meant for beginner to intermediate devs.
+- http://es6katas.org/ is a great way to learn some of the newer (as of mid 2016 at least) ECMAScript 6 updates and features. They are in an interesting order (mostly grouped by what they affect) and sometimes the answers are REALLY SIMPLE.

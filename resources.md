@@ -1,14 +1,14 @@
 # References, Resources, and Blogs - OH MY 
 
 *** 
-### Books 
+## Books 
 - [A Smarter Way to Learn HTML & CSS](https://www.amazon.com/Smarter-Way-Learn-HTML-CSS/dp/150867387X/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=2DVYKSXB5XPP2CYGE87R) is by Mark Myers and is required reading at Nashville Software School. 
 - [A Smarter Way to Learn JavaScript](https://www.amazon.com/Smarter-JavaScript-tech-assisted-approach-requires/dp/1497408180/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=XTDA4VDWEYNHN5ZZXHAT) is another book by Mark Myers and is also required reading at Nashville Software School. 
 - [Web Design with HTML, CSS, JavaScript and jQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=la_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1483520705&sr=1-1) by Jon Duckett is on Amazon and I would suggest buying both books as the combo I believe is within $5 of the JavaScript book by itself! Great books for visual people! 
 - [Pro Git](https://git-scm.com/book/en/v2) a FREE digital book to help further your Git understanding and how source code management (SCM) can work for you.
 
 *** 
-### Educational Sites 
+## Educational Sites 
 - [Treehouse's](https://teamtreehouse.com/tracks/front-end-web-development) Front End Web Development course is where I got started and is a good jumping off point. 
 - [Treehouse's](https://teamtreehouse.com/tracks/full-stack-javascript) Full Stack JavaScript is another possible track (looks like it might be a little bit "deeper"). 
 - [Udemy](https://www.udemy.com) is a great place to pick up all kinds of courses on a broad range of topics. I've personally got a couple on Youtube Video Creation and two on User Experience. Try the [Complete Web Developer Course 2.0](https://www.udemy.com/the-complete-web-developer-course-2/)! 
@@ -18,20 +18,20 @@
 - [Gymnasium](http://gymnasium.aquent.com/) is another free tutorial site that is geared towards "digital, creative, and communications professionals." Some UX, dev stuff, and even project management courses are in here. 
 
 *** 
-### References and Resources 
-Github:
+## References and Resources 
+#### Github:
 - [Github Guides](https://guides.github.com/) is a great way to get familiar with Github. "HELLO WORLD!" 
 - [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows) is another excellent Github guide. 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) is a great resource for making your Github pages SHINE. 
 - [Github Tutorial for Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE) is an easy to follow starter video on Youtube. Delves into what "version control" is and much more. 
 
-GIT: 
+#### GIT: 
 - [Gitub & Git Foundations](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) on Youtube is a set of videos from Github itself.  
 - [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/) has some great shortcuts and a great GIT resource.
 - [Think Like a Git](http://think-like-a-git.net/) a great way to get more accustomed to GIT. 
 - [Oh shit, git!](http://ohshitgit.com/) is a Git lifesaver, and has rescued me a couple times. 
 
-Reference: 
+#### Reference: 
 - [Stack Overflow](http://stackoverflow.com/) is a fantastic code resource. If you get stuck on ANYTHING, this is an amazing place to check out.
 - https://developer.mozilla.org/en-US/ Head here for the latest, most up to date web development practices. Can be a little "technical" for beginners (which brings me to....) 
 - http://www.w3schools.com/ ....W3Schools.com - may not always be the most up to date, but is typically in the ballpark and speaks in "regular English." 
@@ -39,14 +39,14 @@ Reference:
 - [OverAPI](http://overapi.com/) has the Cheat Sheets! 
 - [ES6 Features](http://es6-features.org) is a great resource to see ECMAScript 6 differences from ECMAScript 5 and has nice code snippets to illustrate. 
 
-Videos/Walkthroughs: 
+#### Videos/Walkthroughs: 
 - [Web Design In 4 Minutes](http://jgthms.com/web-design-in-4-minutes/) is a clever way to illustrate how CSS makes things pretty. 
 - [Nashville Software School has a great video playlist](https://www.youtube.com/playlist?list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC) on Youtube that I always found rather helpful. 
 - John Crockford's [On JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) series is on Youtube and is a THOROUGH walkthrough of the history of JavaScript. Miiight be a little advanced for newbies but the first 3 are great for those that are curious... 
 - Philip Robert's talk: [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&index=6&list=PLyZreCPOwYNna5TZmIBlSoIpY2lNrF0oA) is enjoyable and a great way to visually learn what's happening in your programs. 
 
 *** 
-### Blogs and Such 
+## Blogs and Such 
 - [Scotch.io](https://scotch.io/) is a "web development blog discussing all things programming, development, web, and life." 
 - [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/) shows you some best practices in code. 
 - [FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8) is a FANTASTIC and engaging Youtube channel that covers all sorts of coding topics. HIGHLY recommended. 
@@ -54,7 +54,7 @@ Videos/Walkthroughs:
 
 
 *** 
-### Further Learning / Katas / Challenges 
+## Further Learning / Katas / Challenges 
 - https://javascript30.com/ is a cool concept brought to you by Wes Bos at [HackerYou](http://hackeryou.com/) and is meant for beginner to intermediate devs. 
 - http://es6katas.org/ is a great way to learn some of the newer (as of mid 2016 at least) ECMAScript 6 updates and features. They are in an interesting order (mostly grouped by what they affect) and sometimes the answers are REALLY SIMPLE. These can also be rather hard... 
 - [Codewars](https://www.codewars.com/) is a place to sharpen your code chops. I feel like this is meant for intermediate and above coders. There is a "test" to be able to use the site, and from there you can work on all sorts of skills. 

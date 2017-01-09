@@ -36,13 +36,13 @@ Reference:
 - https://developer.mozilla.org/en-US/ Head here for the latest, most up to date web development practices. Can be a little "technical" for beginners (which brings me to....) 
 - http://www.w3schools.com/ ....W3Schools.com - may not always be the most up to date, but is typically in the ballpark and speaks in "regular English." 
 - https://css-tricks.com/ is an awesome site for learning how to make your web pages pop! 
+- [ES6 Features](http://es6-features.org) is a great resource to see ECMAScript 6 differences from ECMAScript 5 and has nice code snippets to illustrate. 
 
 Videos/Walkthroughs: 
 - [Web Design In 4 Minutes](http://jgthms.com/web-design-in-4-minutes/) is a clever way to illustrate how CSS makes things pretty. 
 - [Nashville Software School has a great video playlist](https://www.youtube.com/playlist?list=PLX0ucpUE_qIOUsxGNEPpP9yonb4zerVIC) on Youtube that I always found rather helpful. 
 - John Crockford's [On JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) series is on Youtube and is a THOROUGH walkthrough of the history of JavaScript. Miiight be a little advanced for newbies but the first 3 are great for those that are curious... 
 - Philip Robert's talk: [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&index=6&list=PLyZreCPOwYNna5TZmIBlSoIpY2lNrF0oA) is enjoyable and a great way to visually learn what's happening in your programs. 
-- [ES6 Features](http://es6-features.org) is a great resource to see ECMAScript 6 differences from ECMAScript 5 and has nice code snippets to illustrate.
 
 *** 
 ### Blogs and Such 
@@ -53,6 +53,7 @@ Videos/Walkthroughs:
 
 
 *** 
-### Further Learning / Katas / Challenges
-- https://javascript30.com/ is a cool concept brought to you by Wes Bos at [HackerYou](http://hackeryou.com/) and is meant for beginner to intermediate devs.
-- http://es6katas.org/ is a great way to learn some of the newer (as of mid 2016 at least) ECMAScript 6 updates and features. They are in an interesting order (mostly grouped by what they affect) and sometimes the answers are REALLY SIMPLE.
+### Further Learning / Katas / Challenges 
+- https://javascript30.com/ is a cool concept brought to you by Wes Bos at [HackerYou](http://hackeryou.com/) and is meant for beginner to intermediate devs. 
+- http://es6katas.org/ is a great way to learn some of the newer (as of mid 2016 at least) ECMAScript 6 updates and features. They are in an interesting order (mostly grouped by what they affect) and sometimes the answers are REALLY SIMPLE. These can also be rather hard... 
+- [Codewars](https://www.codewars.com/) is a place to sharpen your code chops. I feel like this is meant for intermediate and above coders. There is a "test" to be able to use the site, and from there you can work on all sorts of skills. 

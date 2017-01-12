@@ -51,7 +51,9 @@
 - [Writing Your Best Code](http://learn.shayhowe.com/html-css/writing-your-best-code/) shows you some best practices in code. 
 - [FunFunFunction](https://www.youtube.com/playlist?list=PL0zVEGEvSaeFSwPn06GKArptSxiP1Gff8) is a FANTASTIC and engaging Youtube channel that covers all sorts of coding topics. HIGHLY recommended. 
 - [Dev Tips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ) is another Youtube channel that can be quite helpful. 
-
+- [Original Node.js Presentation](https://youtu.be/ztspvPYybIY) by Ryan Dahl!
+- [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) is playlist of videos featuring Douglas Crockford giving a history of programming and JavaScript. Lots of interesting historical bits and pieces.
+- [Erlang - The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE) an interesting time capsule on the state of programming (Erlang at least) from the 80s... Erlang - The Movie II is out there as well!
 
 *** 
 ## Further Learning / Katas / Challenges 

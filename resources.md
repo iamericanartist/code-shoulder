@@ -16,6 +16,7 @@
 - http://exercism.io/ looks like a great way to hone your skills (haven't personally used it, but it looks really cool). 
 - [The Odin Project](http://www.theodinproject.com/) is a free site that gives a "beginner to developer" track and focuses on Ruby/Ruby on Rails alongside the standard CSS, HTML, Javascript and JQuery stuff. I've heard from a good friend it's pretty great!
 - [Gymnasium](http://gymnasium.aquent.com/) is another free tutorial site that is geared towards "digital, creative, and communications professionals." Some UX, dev stuff, and even project management courses are in here. 
+- https://egghead.io has both free and "pro" accounts and offers "High quality, concise web development screencasts. Focus on coding with expert open-source contributors." 
 
 *** 
 ## References and Resources 

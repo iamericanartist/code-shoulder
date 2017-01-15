@@ -62,3 +62,15 @@
 - http://es6katas.org/ is a great way to learn some of the newer (as of mid 2016 at least) ECMAScript 6 updates and features. They are in an interesting order (mostly grouped by what they affect) and sometimes the answers are REALLY SIMPLE. These can also be rather hard... 
 - [Codewars](https://www.codewars.com/) is a place to sharpen your code chops. I feel like this is meant for intermediate and above coders. There is a "test" to be able to use the site, and from there you can work on all sorts of skills. 
 - [Project Euler](https://projecteuler.net/) "is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve."
+
+*** 
+## Interviews and Getting the Job
+- A [Live Mock Technical Interview - JavaScript with Dan](https://www.codementor.io/officehours/1335595426/live-mock-interview-javascript-front-end) was very helpful to me to see how things might go down, and actually made me feel a little better about everything! I highly recommend watching this.
+- https://www.interviewcake.com/coding-interview-tips has some great free content for interviewees... The paid content looks like it could be a good investment as well ($200).
+- [7 Tips to Landing a Junior Dev Job After Bootcamp](https://www.reax.io/blog/2016/08/30/7-tips-to-landing-a-junior-dev-job-after-bootcamp/) is a great article by local Nashville company Reax.io.
+
+*** 
+## Not Code Related... FWIW
+- [Your Body Language Shapes Who You Are](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) by Amy Cuddy is a great Ted Talk regarding how your outward self reflects your inward feelings and how body language can be a powerful thing to be conscious about.
+- [How to Hack Your Brain to Become Radically More Confident and Less Fearful](http://observer.com/2016/06/how-to-hack-your-brain-to-become-radically-more-confident-and-less-fearful/) is an article with ideas from Amy Cuddy (her second link in this list!)
+- [Brené Brown on Empathy](https://youtu.be/1Evwgu369Jw?t=8s) is a great video to help put your mind in the right place to maybe see things from another perspective.

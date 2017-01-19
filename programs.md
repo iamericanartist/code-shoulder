@@ -35,7 +35,7 @@ Visit [Github.com](https://github.com) and start your own free account. Github (
 - [Codeshare](https://codeshare.io/) is another real-time collaborative text editor that you can use to pair code with NO SIGNUP REQUIRED. I've used a couple times and it was dead simple and easy to use.
 
 *** 
-## Other
-### Trello (Project Management)
-[Trello]() is a web-based project management application using a kanban board with lists and assignable and moveable "cards" to illustrate the status of a particular issue/feature/item. Great for visual people!
-- [Lifehacker](http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040) has a nice "getting started" article for Trello.
+## Other  
+- [Trello](https://trello.com) is a web-based project management application using a kanban board with lists and assignable and moveable "cards" to illustrate the status of a particular issue/feature/item. Great for visual people!  
+  - [Lifehacker](http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040) has a nice "getting started" article for Trello.  
+- [RegExr](http://regexr.com/) for all your RegEx needs... A nice way to figure out what you're doing with RegEx.

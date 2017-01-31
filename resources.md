@@ -7,7 +7,8 @@
 - [Web Design with HTML, CSS, JavaScript and jQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=la_B001IR3Q7I_1_1?s=books&ie=UTF8&qid=1483520705&sr=1-1) by Jon Duckett is on Amazon and I would suggest buying both books as the combo I believe is within $5 of the JavaScript book by itself! Great books for visual people! 
 - [Pro Git](https://git-scm.com/book/en/v2) a FREE digital book to help further your Git understanding and how source code management (SCM) can work for you.
 - [Ry's Git Tutorial](http://rypress.com/tutorials/git/index) is another FREE digital book (I got it for Kindle), and/or useful website if you prefer, about Git and distributed version control.
-- GitBook's [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details) "broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2017." - Free E-Book in various formats! Check out some of [GitBook's other offerings too...](https://www.gitbook.com/explore)
+- GitBook's [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details) "broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2017." - Free E-Book in various formats! Check out some of [GitBook's other offerings too...](https://www.gitbook.com/explore)  
+- [This repo is amazing](https://github.com/vhf/free-programming-books)! Has a list of free programming books, free courses, resources, and more. NIIIICE.
 
 *** 
 ## Educational Sites 

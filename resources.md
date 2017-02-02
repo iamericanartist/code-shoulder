@@ -70,6 +70,7 @@
 *** 
 ## Interviews and Getting the Job
 - A [Live Mock Technical Interview - JavaScript with Dan](https://www.codementor.io/officehours/1335595426/live-mock-interview-javascript-front-end) was very helpful to me to see how things might go down, and actually made me feel a little better about everything! I highly recommend watching this.
+- [How to: Work at Google — Example Coding/Engineering Interview](https://youtu.be/XKu_SEDAykw) shows how to talk through the problem first and ASK QUESTIONS rather than just diving in and coding. Great video!
 - https://www.interviewcake.com/coding-interview-tips has some great free content for interviewees... The paid content looks like it could be a good investment as well ($200).
 - [7 Tips to Landing a Junior Dev Job After Bootcamp](https://www.reax.io/blog/2016/08/30/7-tips-to-landing-a-junior-dev-job-after-bootcamp/) is a great article by local Nashville company Reax.io.
 

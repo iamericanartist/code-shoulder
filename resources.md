@@ -10,6 +10,7 @@
 - GitBook's [Front-End Developer Handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details) "broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2017." - Free E-Book in various formats! Check out some of [GitBook's other offerings too...](https://www.gitbook.com/explore)  
 - [This repo is amazing](https://github.com/vhf/free-programming-books)! Has a list of free programming books, free courses, resources, and more. NIIIICE.
 - [97 Things Every Programmer Should Know](https://www.gitbook.com/book/97-things-every-x-should-know/97-things-every-programmer-should-know/details) is another GitBook.com offering and so far a pretty good read. It is a free version of the O'Reilly book by the same name.
+- [The Imposter's Handbook](https://bigmachine.io/products/the-imposters-handbook/) by [Rob Conery](https://github.com/robconery) is for people interested in CS, but not going through school for a CS degree. He basically delves into the topics a typical CS degree covers and shares what he learned. Good reviews around the web, and for now I think only available through the linked website.
 
 *** 
 ## Educational Sites 

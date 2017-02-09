@@ -66,6 +66,7 @@
 - http://es6katas.org/ is a great way to learn some of the newer (as of mid 2016 at least) ECMAScript 6 updates and features. They are in an interesting order (mostly grouped by what they affect) and sometimes the answers are REALLY SIMPLE. These can also be rather hard... 
 - [Codewars](https://www.codewars.com/) is a place to sharpen your code chops. I feel like this is meant for intermediate and above coders. There is a "test" to be able to use the site, and from there you can work on all sorts of skills. 
 - [Project Euler](https://projecteuler.net/) "is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve."
+- [HTML5 Quiz](https://html5te.st/quiz/) is an interesting look at how HTML5 parses the things you give it. Kinda tricky and good to know! example: **```Is this allowed? <!-- -- --> ```**  
 
 *** 
 ## Interviews and Getting the Job

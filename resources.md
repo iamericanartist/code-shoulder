@@ -9,7 +9,6 @@
 <img src="https://images-na.ssl-images-amazon.com/images/I/41BMP%2B44bJL.jpg" width="80" hspace="20"/>
 </p>
 
-*** 
 ## Books 
 - [A Smarter Way to Learn HTML & CSS](https://www.amazon.com/Smarter-Way-Learn-HTML-CSS/dp/150867387X/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=2DVYKSXB5XPP2CYGE87R) is by Mark Myers and is required reading at Nashville Software School. 
 - [A Smarter Way to Learn JavaScript](https://www.amazon.com/Smarter-JavaScript-tech-assisted-approach-requires/dp/1497408180/ref=pd_sim_14_2?_encoding=UTF8&psc=1&refRID=XTDA4VDWEYNHN5ZZXHAT) is another book by Mark Myers and is also required reading at Nashville Software School. 

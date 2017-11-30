@@ -1,7 +1,7 @@
 # References, Resources, and Blogs - OH MY 
 
 <p align="center">
-  <a href="https://www.amazon.com/Smarter-Way-Learn-HTML-CSS/dp/150867387X/ref=pd_bxgy_14_img_2?_encoding=UTF8&psc=1&refRID=2DVYKSXB5XPP2CYGE87R><img src="https://images-na.ssl-images-amazon.com/images/I/51RgT-XfErL._SX348_BO1,204,203,200_.jpg" width="80" hspace="20"/></a>
+  <img src="https://images-na.ssl-images-amazon.com/images/I/51RgT-XfErL._SX348_BO1,204,203,200_.jpg" width="80" hspace="20"/>
   <img src="https://images-na.ssl-images-amazon.com/images/I/512KPmZIG7L._SX348_BO1,204,203,200_.jpg" width="80" hspace="20"/>
   <img src="https://images-na.ssl-images-amazon.com/images/I/41R9Qctt%2BbL._SX396_BO1,204,203,200_.jpg" width="80" hspace="20"/>
   <img src="https://images-na.ssl-images-amazon.com/images/I/41Z6LTD8QmL._SX400_BO1,204,203,200_.jpg" width="80" hspace="20"/>

@@ -28,6 +28,7 @@ Visit [Github.com](https://github.com) and start your own free account. Github (
 - [Dillinger](http://dillinger.io/) is really more of a markdown (READMEs, this file, etc) editor with live preview, but I still really like it and use it all the time. It also has a nice link to a cheat sheet in the settings area.
 
 - [Codepen](https://codepen.io) is an online text editor and live preview site where you can see your programs in action, share your creations, "fork" other folks code, and generally learn how to do all sorts of cool things.
+- [Glitch.com](https://glitch.com/about/) is a quick way to get started on a project and looks simple but is rather deep. "Glitch isn't a "dumbed down" version of a real developer environment — your Glitch app runs on the exact same cloud infrastructure and Node.js engine that the best developers use to run their apps." - per their site.
 
 ## Colaborative Text Editors
 - [Floobits](https://floobits.com) is a real-time collaborative text editor (IDE - Integrated development environment), which can tie in to your existing Sublime Text, Atom, and a few other editors. We used this a lot in class to "pair code" on the projector and not have to constantly be typing. Really cool tool.

@@ -41,3 +41,4 @@ Visit [Github.com](https://github.com) and start your own free account. Github (
   - [Lifehacker](http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040) has a nice "getting started" article for Trello.  
 - [RegExr](http://regexr.com/) for all your RegEx needs... A nice way to figure out what you're doing with RegEx.
 - [Protovue](https://github.com/v1Labs/protovue) is a "prototyping component library" creator for use with Vue.js that is "for designers and developers to quickly scaffold mock app layouts for their prototypes." 
+- [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f) is a *Medium* post by **Mario Hoyos** and links to a plethora of tools and apps that could be just what you're looking...

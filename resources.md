@@ -91,3 +91,11 @@
 - [Your Body Language Shapes Who You Are](https://www.youtube.com/watch?v=Ks-_Mh1QhMc) by Amy Cuddy is a great Ted Talk regarding how your outward self reflects your inward feelings and how body language can be a powerful thing to be conscious about.
 - [How to Hack Your Brain to Become Radically More Confident and Less Fearful](http://observer.com/2016/06/how-to-hack-your-brain-to-become-radically-more-confident-and-less-fearful/) is an article with ideas from Amy Cuddy (her second link in this list!)
 - [Brené Brown on Empathy](https://youtu.be/1Evwgu369Jw?t=8s) is a great video to help put your mind in the right place to maybe see things from another perspective.
+
+***
+## UX / UI 
+- [Nielsen Norman Group](https://www.nngroup.com/) It begins and ends here. They've been in the game a long time, know their stuff, and are glad to share it.
+- [UI Patterns](http://ui-patterns.com/) "User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer."
+- [A List Apart](http://alistapart.com/) is another reference point in the design world that focuses on web standards and best practices.
+- [Luke W](https://www.lukew.com/ff/) is a well known UX/Product/Web Design guy who is bound to show up in many of your frantic Google searches.
+- [Toptal](https://www.toptal.com/designers/blog) has a great blog for UX and Web practicioners to review or learn topics that apply to our craft.
